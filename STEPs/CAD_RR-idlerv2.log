@@ -1,0 +1,41 @@
+STEP translation to Solid Edge
+Date: Tuesday,July 04,2023 08:23PM
+Source File: C:\Users\light\Documents\3D_PRINTING\rudy_custom\Rudy\STEPs\CAD_RR-idlerv2.step
+Author: Author
+Organization: Unknown
+Source System: FreeCAD
+
+Hardware:
+Processor: AMD Ryzen 5 3600 6-Core Processor              
+Operating System: Windows 10 Professional
+Installed Memory: 15.9 GB
+
+Software Information
+Parasolid Version: 34.0.153
+PSBodyShop Version: 34.0.110
+Step Adapter Version: 9.0.104
+Solid Edge Version: 222.00.07.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\light\Documents\3D_PRINTING\rudy_custom\Rudy\STEPs
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 00
